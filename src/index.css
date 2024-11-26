@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.curve img{
+
+    mask: radial-gradient(transparent 50%, white calc(50% + 2px)) 50% 100px / 400% 300%;
+  }
